@@ -1,0 +1,13 @@
+E:\Proyectos c#\MVC-jquery\AppDemo\CapaDatos\bin\Debug\CapaDatos.dll
+E:\Proyectos c#\MVC-jquery\AppDemo\CapaDatos\bin\Debug\CapaDatos.pdb
+E:\Proyectos c#\MVC-jquery\AppDemo\CapaDatos\bin\Debug\CapaEntidad.dll
+E:\Proyectos c#\MVC-jquery\AppDemo\CapaDatos\bin\Debug\Google.Protobuf.dll
+E:\Proyectos c#\MVC-jquery\AppDemo\CapaDatos\bin\Debug\MySql.Data.dll
+E:\Proyectos c#\MVC-jquery\AppDemo\CapaDatos\bin\Debug\CapaEntidad.pdb
+E:\Proyectos c#\MVC-jquery\AppDemo\CapaDatos\bin\Debug\Google.Protobuf.xml
+E:\Proyectos c#\MVC-jquery\AppDemo\CapaDatos\bin\Debug\MySql.Data.xml
+E:\Proyectos c#\MVC-jquery\AppDemo\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+E:\Proyectos c#\MVC-jquery\AppDemo\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+E:\Proyectos c#\MVC-jquery\AppDemo\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+E:\Proyectos c#\MVC-jquery\AppDemo\CapaDatos\obj\Debug\CapaDatos.dll
+E:\Proyectos c#\MVC-jquery\AppDemo\CapaDatos\obj\Debug\CapaDatos.pdb

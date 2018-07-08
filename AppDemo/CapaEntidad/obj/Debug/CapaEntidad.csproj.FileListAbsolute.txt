@@ -1,0 +1,5 @@
+E:\Proyectos c#\MVC-jquery\AppDemo\CapaEntidad\bin\Debug\CapaEntidad.dll
+E:\Proyectos c#\MVC-jquery\AppDemo\CapaEntidad\bin\Debug\CapaEntidad.pdb
+E:\Proyectos c#\MVC-jquery\AppDemo\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+E:\Proyectos c#\MVC-jquery\AppDemo\CapaEntidad\obj\Debug\CapaEntidad.dll
+E:\Proyectos c#\MVC-jquery\AppDemo\CapaEntidad\obj\Debug\CapaEntidad.pdb
